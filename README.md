@@ -1,4 +1,4 @@
-# App de Finanças Pessoais da Deborah
+# App de Finanças Pessoais da Deborah 
 
 Este projeto tem como objetivo criar um aplicativo de organização de finanças pessoais que funciona por meio de conversas em linguagem natural.  
 A proposta é oferecer uma experiência simples, acessível e prática para quem deseja começar a controlar seus gastos sem complicações.
